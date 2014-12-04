@@ -13,7 +13,7 @@ The Website Widget from Privy, makes it easy to capture your website visitors' i
 
 Privy gives you all the tools you need to capture emails from anywhere online.
 
-Whether you’re a marketing pro or just someone who needs to get the word out about a side project, Privy makes it easy to capture emails and interest from anywhere online. Turn your website into a magnet for new email addresses and create mobile-friendly landing pages in seconds without a design degree or help from IT.
+Whether you're a marketing pro or just someone who needs to get the word out about a side project, Privy makes it easy to capture emails and interest from anywhere online. Turn your website into a magnet for new email addresses and create mobile-friendly landing pages in seconds without a design degree or help from IT.
 
 Perfect for:
 * Newsletter Sign-ups
