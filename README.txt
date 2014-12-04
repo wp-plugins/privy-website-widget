@@ -1,6 +1,6 @@
 === Privy Website Widget ===
 Contributors: acmeyer
-Tags: privy, marketing, leads, widget, MailChimp, constant contact, newsletter, get response,  subscribe, growth, subscribers, subscription, email form, admin, analytics , newsletter,  mail, analytics, newsletter,  email, contact form, content analytics, inbound marketing, mailing list
+Tags: privy, marketing, leads, widget, MailChimp, constant contact, newsletter, get response,  subscribe, growth, subscribers, subscription, email form, admin, analytics , newsletter,  mail, analytics, newsletter,  email, contact form, content analytics, inbound marketing, mailing list, landing page, landing pages
 Requires at least: 4.0
 Tested up to: 4.0
 Stable tag: 1.0 
@@ -40,6 +40,10 @@ You can sign up for a new Privy Account at http://beta.privy.com/users/sign_up.
 = Where can I learn more about Privy? =
 
 To find out more about Privy and what we do, visit http://privy.com/beta.
+
+= What does it cost? =
+
+The Privy Website Widget is 100% free to use! All you need is an account: http://beta.privy.com/users/sign_up.
 
 == Screenshots ==
 1. Privy Settings Page in your WordPress Admin Dashboard. Just add your Account Identifier and you're ready to go!
