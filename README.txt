@@ -1,5 +1,5 @@
 === Privy Website Widget ===
-Contributors: acmeyer9, amille14
+Contributors: acmeyer
 Tags: privy, marketing, leads, widget, MailChimp, constant contact, newsletter, get response,  subscribe, growth, subscribers, subscription, email form, admin, analytics , newsletter,  mail, analytics, newsletter,  email, contact form, content analytics, inbound marketing, mailing list
 Requires at least: 4.0
 Tested up to: 4.0
