@@ -3,7 +3,7 @@ Contributors: acmeyer9, amille14
 Tags: privy, marketing, leads, widget, MailChimp, constant contact, newsletter, get response,  subscribe, growth, subscribers, subscription, email form, admin, analytics , newsletter,  mail, analytics, newsletter,  email, contact form, content analytics, inbound marketing, mailing list
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: stable 
+Stable tag: 1.0 
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
