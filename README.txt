@@ -15,6 +15,8 @@ Privy gives you all the tools you need to capture emails from anywhere online.
 
 Whether you're a marketing pro or just someone who needs to get the word out about a side project, Privy makes it easy to capture emails and interest from anywhere online. Turn your website into a magnet for new email addresses and create mobile-friendly landing pages in seconds without a design degree or help from IT.
 
+<iframe width="854" height="510" src="//www.youtube.com/embed/fP1QU2474UY" frameborder="0" allowfullscreen></iframe>
+
 Perfect for:
 * Newsletter Sign-ups
 * Webinar registrations
