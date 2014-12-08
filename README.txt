@@ -9,18 +9,20 @@ License URI: http://opensource.org/licenses/MIT
 
 
 == Description ==
+#### What is it?
 The Website Widget from Privy, makes it easy to capture your website visitors' information.
 
 Privy gives you all the tools you need to capture emails from anywhere online.
 
 Whether you're a marketing pro or just someone who needs to get the word out about a side project, Privy makes it easy to capture emails and interest from anywhere online. Turn your website into a magnet for new email addresses and create mobile-friendly landing pages in seconds without a design degree or help from IT.
 
-<iframe width="854" height="510" src="//www.youtube.com/embed/fP1QU2474UY" frameborder="0" allowfullscreen></iframe>
+#### What's it for?
+*	Newsletter Sign-ups
+*	Webinar registrations
+*	Event RSVPs
 
-Perfect for:
-* Newsletter Sign-ups
-* Webinar registrations
-* Event RSVPs
+#### How does it work?
+[embed]http://www.youtube.com/embed/fP1QU2474UY[/embed]
 
 == Installation ==
 1. Download the zip file. Do not unzip the file. In order to install the wordpress plugin, you'll need the zipped version.
