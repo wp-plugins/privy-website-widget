@@ -22,7 +22,7 @@ Whether you're a marketing pro or just someone who needs to get the word out abo
 *	Event RSVPs
 
 #### How does it work?
-[embed]http://www.youtube.com/embed/fP1QU2474UY[/embed]
+[youtube https://www.youtube.com/watch?v=fP1QU2474UY]
 
 == Installation ==
 1. Download the zip file. Do not unzip the file. In order to install the wordpress plugin, you'll need the zipped version.
