@@ -1,6 +1,6 @@
 === Privy Website Widget ===
 Contributors: acmeyer
-Tags: privy, marketing, leads, widget, MailChimp, constant contact, newsletter, get response,  subscribe, growth, subscribers, subscription, email form, admin, analytics , newsletter,  mail, analytics, newsletter,  email, contact form, content analytics, inbound marketing, mailing list, landing page, landing pages
+Tags: privy, marketing, leads, widget, MailChimp, constant contact, newsletter, get response,  subscribe, growth, subscribers, subscription, email form, admin, analytics , newsletter,  mail, analytics, newsletter,  email, contact form, content analytics, inbound marketing, mailing list, landing page, landing pages, popup, pop-up, convert, conversion
 Requires at least: 4.0
 Tested up to: 4.0
 Stable tag: 1.0 
