@@ -3,7 +3,7 @@ Contributors: acmeyer
 Tags: privy, marketing, leads, widget, MailChimp, constant contact, newsletter, get response,  subscribe, growth, subscribers, subscription, email form, admin, analytics , newsletter,  mail, analytics, newsletter,  email, contact form, content analytics, inbound marketing, mailing list, landing page, landing pages, popup, pop-up, convert, conversion
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 1.0 
+Stable tag: 2.0 
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
@@ -39,15 +39,15 @@ Privy is a software company that provides individuals and businesses with market
 
 = I don't have a Privy Account =
 
-You can sign up for a new Privy Account at http://beta.privy.com/users/sign_up.
+You can sign up for a new Privy Account at http://dashboard.privy.com/users/sign_up.
 
 = Where can I learn more about Privy? =
 
-To find out more about Privy and what we do, visit http://privy.com/beta.
+To find out more about Privy and what we do, visit http://privy.com.
 
 = What does it cost? =
 
-The Privy Website Widget is 100% free to use! All you need is an account: http://beta.privy.com/users/sign_up.
+The Privy Website Widget is 100% free to use! All you need is an account: http://dashboard.privy.com/users/sign_up.
 
 == Screenshots ==
 1. Privy Settings Page in your WordPress Admin Dashboard. Just add your Account Identifier and you're ready to go!
@@ -57,8 +57,14 @@ The Privy Website Widget is 100% free to use! All you need is an account: http:/
 == Changelog ==
 = 1.0 =
 * Our first version is out, no changes!
+= 2.0 =
+* Big update!
+* We have closed down the Beta product and moved on to a full product!
+* This requires a new Privy account if you were using the beta version. To sign up for your new account visit: http://dashboard.privy.com/users/sign_up.
 
 == Upgrade Notice ==
 = 1.0 =
 No upgrade notices
+= 2.0 =
+We have upgraded our beta product to a full featured one. If you previously used the beta product, please sign up for your free account at: http://dashboard.privy.com/users/sign_up. The 1.0 version of this widget will no longer work as we are shutting that product down.
 

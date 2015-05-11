@@ -49,7 +49,7 @@
 
 <div class="wrap">
   <div id="logo">
-    <a href="http://privy.com/beta" target="_blank">
+    <a href="http://privy.com/" target="_blank">
       <img src="<?php echo plugins_url('assets/images/privy-logo-gray.png', dirname(__FILE__)) ?>">
     </a>
   </div>
@@ -69,11 +69,11 @@
     <div>
       <h4>I have an account but don't have a clue what you're talking about</h4> 
       Your account identifier can be found in your Privy Dashboard under <em>Account Settings > Widget Installation</em>.
-      <a href="http://beta.privy.com/dashboard/settings/widget#wordpress" target="_blank">Click here to go there now</a>
+      <a href="http://dashboard.privy.com/settings/widget#wordpress" target="_blank">Click here to go there now</a>
     </div>
     <div>
       <h4>I don't have a Privy account</h4> 
-      <a href="http://beta.privy.com/users/sign_up" target="_blank">Click here to sign up</a> 
+      <a href="http://dashboard.privy.com/users/sign_up" target="_blank">Click here to sign up</a> 
       <br/><span>Once you've signed up, grab your account identifier under <em>Account Settings > Widget Installation</em> and come back here to finish.</span>
     </div>
     <div>
