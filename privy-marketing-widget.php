@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Privy Website Widget
-Plugin URI: http://privy.com/beta/wordpress-instructions
-Description: All the tools you need to capture emails from anywhere online.
-Version: 1.0
+Plugin URI: http://blog.privy.com/blog/2015/5/how-to-install-the-privy-wordpress-plugin
+Description: Simple website banners and exit intent popups to grow your email list.
+Version: 2.0
 Author: Privy Inc.
-Author URI: http://privy.com/beta
+Author URI: http://privy.com/
 License: MIT
 */
 
