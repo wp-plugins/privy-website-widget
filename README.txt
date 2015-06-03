@@ -23,7 +23,7 @@ Whether you're a marketing pro or just someone who needs to get the word out abo
 * Content Downloads
 
 #### How does it work?
-[youtube https://www.youtube.com/watch?v=YOO-nTrXRek&feature=youtu.be]
+[youtube https://youtu.be/iTJ9R8GdGC4]
 
 == Installation ==
 1. Download the zip file. Do not unzip the file. In order to install the wordpress plugin, you'll need the zipped version.
