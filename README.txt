@@ -3,7 +3,7 @@ Contributors: acmeyer
 Tags: privy, marketing, leads, widget, MailChimp, constant contact, newsletter, get response, growth, subscribers, subscription, newsletter,  mail, analytics, newsletter,  email, contact form, inbound marketing, mailing list, landing page, landing pages, popup, pop-up, convert, conversion, website popup, exit intent, offers, coupons, emma, mad mimi, klaviyo, subscribe form, build email list, grow email list
 Requires at least: 4.0
 Tested up to: 4.2.4
-Stable tag: 2.0 
+Stable tag: 2.0.1 
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
