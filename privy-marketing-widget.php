@@ -38,12 +38,21 @@ function privy_settings_validate($input) {
 	return $newinput;
 }
 
+// inject script into footer of site
 function privy_widget() {
 	wp_enqueue_script('privy-marketing-widget', plugins_url('privy-marketing-widget.js', __FILE__));
 	$params = array('account_identifier' => get_option('account_identifier'));
 	wp_localize_script('privy-marketing-widget', 'PrivyWebsiteWidgetParams', $params);
 }
-
 add_action('wp_footer', 'privy_widget');
+
+// add settings link from plugins page
+function privy_plugin_settings_link($links) { 
+  $settings_link = '<a href="options-general.php?page=privy_settings_page">Settings</a>'; 
+  array_unshift($links, $settings_link); 
+  return $links; 
+}
+$plugin = plugin_basename(__FILE__); 
+add_filter("plugin_action_links_$plugin", 'privy_plugin_settings_link' );
 
 ?>
