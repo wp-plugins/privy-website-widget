@@ -3,7 +3,7 @@
 Plugin Name: Privy Website Widget
 Plugin URI: http://blog.privy.com/blog/2015/5/how-to-install-the-privy-wordpress-plugin
 Description: Simple website banners and exit intent popups to grow your email list.
-Version: 2.0
+Version: 2.0.2
 Author: Privy Inc.
 Author URI: http://privy.com/
 License: MIT
